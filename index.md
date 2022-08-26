@@ -1,5 +1,14 @@
 ## Welcome to GitHub Pages
 
+# Peter Jin's First CS193 Homework
+
+Some of my favorite things about CS 19300 include
+
+- The really cool instructors (very cool)
+- Not having too much work to do 
+- Nice introduction to the CS major
+- Very cool website template for github pages
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
